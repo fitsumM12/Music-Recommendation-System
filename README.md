@@ -18,4 +18,4 @@ we have used Random Forest Classifier for recommendation purpose and hase shown 
 
 ## Image
 <img src="static/home page.png" alt="loading"/>
-<img src="static/page.png" alt="loading"/>
+<img src="static/rec page.png" alt="loading"/>
