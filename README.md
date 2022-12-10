@@ -17,5 +17,5 @@ This project gives direction whether machine learning can make relevant recommen
 we have used Random Forest Classifier for recommendation purpose and hase shown good result, we have cared about the outlook of the recommender system, however the system can recommend relevant music list  to the user according to their search query.
 
 ## Image
-<img src="static/home page.png"/>
-<img src="static/ page.png"/>
+<img src="static/home page.png" alt="loading"/>
+<img src="static/page.png" alt="loading"/>
